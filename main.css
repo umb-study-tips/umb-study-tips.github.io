@@ -1,12 +1,21 @@
 body {
     background : "image/ocean.png";
+    background-color: 000000;
     background-repeat : no-repeat;
     background-size: 100% 100vh;
 }
 
+a:link {
+    color: fefefe;
+}
+
+a:visited {
+    color: dedede;
+}
+
 div.websiteHeader {
     position: align center;
-    color : f0f0f0;
+    color: ffffff;
     opacity: .8;
     background-color : 2923a0;
     font-family : arial;
@@ -22,7 +31,7 @@ div.websiteHeader {
 
 div.centerText {
     position: align center;
-    color : f0f0f0;
+    color : ffffff;
     opacity: .8;
     background-color : 2923a0;
     font-family : arial;
