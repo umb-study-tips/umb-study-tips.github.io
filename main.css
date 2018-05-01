@@ -1,8 +1,8 @@
 body {
-    background : "AnimeClouds.png";
+    background : "image/clouds.png";
     background-color: 000000;
     background-repeat : no-repeat;
-    background-size: 100% 100vh;
+    background-size: cover;
 }
 
 a:link {
@@ -20,8 +20,8 @@ div.subHead {
 div.websiteHeader {
     position: align center;
     color: ffffff;
-    opacity: .8;
-    background-color : 2923a0;
+    opacity: .7;
+    background-color : 27498b;
     font-family : arial;
     font-size : 200%;
     width: 70%;
@@ -35,8 +35,8 @@ div.websiteHeader {
 div.centerText {
     position: align center;
     color : ffffff;
-    opacity: .8;
-    background-color : 2923a0;
+    opacity: .7;
+    background-color : 27498b;
     font-family : arial;
     font-size : 130%;
     width: 70%;
@@ -50,6 +50,6 @@ div.centerText {
 img {
     max-width: 180px;
     max-height: 180px;
-    background: 2923f0;
+    background: 332e93;
     border: ridge;
 }
