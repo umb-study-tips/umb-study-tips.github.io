@@ -1,0 +1,39 @@
+<!-- DOCTYPE html -->
+<html>
+    <!-- this is another comment -->
+    <!-- this is a comment -->
+    <title>
+        Tips for Making the Most of Your Study Time
+    </title>
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <body background="image/clouds.png">
+        <div class="websiteHeader" align=center>
+            Mindset for Success
+        </div>
+        
+        <div class="centerText" align=center>
+            <p>
+                A successful student must believe in their potential, they must value their health, and approach the world with creativity. Click the links to find out more!
+            </p>
+            <p>
+                <a href="umb-study-tips.github.io/GrowthMindset.html">
+                  The Growth Mindset <br /><br />
+                </a>
+                <a href="umb-study-tips.github.io/GrowthMindset/Sleep.html">
+                  The Importance of Sleep <br /><br />
+                </a>
+                <a href="umb-study-tips.github.io/ThePowerOfVariety.html">
+                  The Power of Variety <br /><br />
+                </a>
+            </p>
+            
+            </p>
+
+        </div>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <p>
+        
+        </p>
+    </body>
+</html>
