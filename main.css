@@ -13,6 +13,10 @@ a:visited {
     color: dedede;
 }
 
+div.subHead {
+    font-size: 18;
+}
+
 div.websiteHeader {
     position: align center;
     color: ffffff;
@@ -25,7 +29,6 @@ div.websiteHeader {
     margin: align 0;
     margin-left: 15%;
     margin-right: 15%;
-    padding-top: 2%;
     border: ridge;
 }
 
